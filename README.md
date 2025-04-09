@@ -1,1 +1,1 @@
-# NodeJS-Introduction
+This repository contains "Node JS" Introduction assignment. It covers the basic concepts and key components of Node.js, including:What is Node.js?, Why Node.js?, Popular Frameworks, Role of npm, e.t.c.
